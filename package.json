@@ -1,5 +1,6 @@
 {
   "name": "read-file-stdin",
+  "repository": "git://github.com/ianstormtaylor/read-file-stdin",
   "description": "Read from a file, falling back to stdin.",
   "keywords": [
     "read",
@@ -7,7 +8,7 @@
     "stdin",
     "buffer"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "dependencies": {
     "concat-stream": "visionmedia/node-concat-stream#0.0.1"
