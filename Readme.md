@@ -1,7 +1,7 @@
 
 # read-file-stdin
 
-  Read from a `file`, falling back to stdin.
+  Read from a file, falling back to stdin.
 
 ## Installation
 
