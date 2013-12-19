@@ -1,0 +1,18 @@
+{
+  "name": "read-file-stdin",
+  "description": "Read from a file, falling back to stdin.",
+  "keywords": [
+    "read",
+    "file",
+    "stdin",
+    "buffer"
+  ],
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "git://github.com/visionmedia/node-concat-stream"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  }
+}
