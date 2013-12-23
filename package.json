@@ -11,7 +11,7 @@
   "version": "0.0.3",
   "license": "MIT",
   "dependencies": {
-    "visionmedia/node-concat-stream": "0.0.1"
+    "concat-stream": "0.0.1"
   },
   "devDependencies": {
     "mocha": "~1.15.1"
