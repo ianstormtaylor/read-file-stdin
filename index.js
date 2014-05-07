@@ -1,5 +1,5 @@
 
-var concat = require('concat-stream');
+var concat = require('stream-to-array');
 var fs = require('fs');
 
 /**
