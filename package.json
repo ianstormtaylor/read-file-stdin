@@ -8,7 +8,7 @@
     "stdin",
     "buffer"
   ],
-  "version": "0.0.4",
+  "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
     "gather-stream": "^1.0.0"
