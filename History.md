@@ -1,4 +1,4 @@
-0.1.0 - October 15, 2014
+0.2.0 - October 15, 2014
 -------------------------
 * returning a single buffer rather than an array (better for large inputs)
 
