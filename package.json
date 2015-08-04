@@ -8,6 +8,9 @@
     "stdin",
     "buffer"
   ],
+  "files": [
+    "index.js"
+  ],
   "version": "0.2.0",
   "license": "MIT",
   "dependencies": {
