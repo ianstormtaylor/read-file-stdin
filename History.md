@@ -1,3 +1,8 @@
+
+0.2.1 - January 21, 2016
+------------------------
+* add tests to `.npmignore`
+
 0.2.0 - October 15, 2014
 -------------------------
 * returning a single buffer rather than an array (better for large inputs)
